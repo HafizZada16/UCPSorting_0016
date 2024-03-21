@@ -14,7 +14,7 @@
 // 
 // 3. Dengan Cara jumlah array dikurangi 1 atau n - 1 , misal jumlah array ada 5, jadi step / pass nya 4 kali
 // 
-// 
+//  
 // 
 // 4. Konversi Algorithma berikut kedalam C++:
 //  1.	Repeat steps 2 and 3 varying j from 0 to n – 2
